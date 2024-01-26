@@ -1,7 +1,7 @@
 # Happy-Customer
 Marketing Analysis from ifood market data analyst exam.
 
-- [organized publishing notion](https://frill-stream-024.notion.site/Happy-Customer-a4ab03226f5648af8539a856c22ccece?pvs=4)
+- [organized publishing notion](https://www.notion.so/Happy-Customer-d5a97c305f3a43d086f8f1aed75dd4d8?pvs=4)
 
 
 > Data Marketing driven by data
@@ -44,6 +44,6 @@ Then we did a detailed analysis according to customer segmentation.
 --- 
 
 ## Advice to management
-[organization](https://frill-stream-024.notion.site/Happy-Customer-Data-based-Marketing-Analytics-Modeling-51c5215933184896989af3c130d8606a?pvs=4)
+[organization](https://www.notion.so/Happy-Customer-d5a97c305f3a43d086f8f1aed75dd4d8?pvs=4)
 : end to end 
 
